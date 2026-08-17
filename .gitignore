@@ -1,0 +1,15 @@
+# Files Git should ignore (never track these).
+# Great teaching moment: create one of these, run `git status`,
+# and show that Git doesn't even mention it.
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
+
+# Logs and temp files
+*.log
+*.tmp
