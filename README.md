@@ -37,4 +37,4 @@ git merge <branch>       # combine branches
 3. Push to GitHub and refresh — your card is live.
 
 <!-- First edit idea: change the workshop date below and commit it. -->
-Workshop date: **TBD**
+Workshop date: **18.08.2026**
