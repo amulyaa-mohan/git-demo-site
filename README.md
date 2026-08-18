@@ -1,6 +1,6 @@
 # Git &amp; GitHub Workshop  Demo Site
 
-hey i am Amulya Mohan, A tiny website we use to learn version control by **changing things and tracking them**.
+hey i am Amulya Mohan, A tiny website we use to learn version control by **changing things and tracking them**. This is just a demo site i used for my presentation in IIT Roorkee!!!
 
 Open `index.html` in a browser to see it. Then edit any file, and use Git to
 record what you did.
